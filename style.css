@@ -23,11 +23,13 @@
     color: #000000;
     text-align: left;
     font-family: "Inter-Regular", sans-serif;
-    font-size: 26px;
+    font-size: 64px;
     font-weight: 400;
     position: absolute;
-    left: 19px;
-    top: 27px;
+    left: 128px;
+    top: 125px;
+    width: 1154px;
+    height: 96px;
   }
   .besuche-meine-website-hier {
     color: #000000;
