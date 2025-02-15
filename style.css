@@ -31,17 +31,17 @@
     width: 1154px;
     height: 96px;
   }
-  .besuche-meine-website-hier {
+  besuche-meine-website-hier {
     color: #000000;
     text-align: left;
     font-family: "Inter-Regular", sans-serif;
-    font-size: 20px;
+    font-size: 48px;
     font-weight: 400;
     position: absolute;
-    left: 50px;
-    top: 103px;
-    width: 109px;
-    height: 48px;
+    left: 311px;
+    top: 422px;
+    width: 394px;
+    height: 149px;
   }
 @media only screen and (min-width:769px) {
   
