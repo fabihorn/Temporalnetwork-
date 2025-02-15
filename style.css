@@ -1,3 +1,5 @@
+@media only screen and (min-width:769px) {
+  
 .frame-1,
 .frame-1 * {
   box-sizing: border-box;
@@ -39,4 +41,5 @@
   top: 103px;
   width: 109px;
   height: 48px;
+}
 }
