@@ -45,46 +45,55 @@
   }
 @media only screen and (min-width:769px) {
   
-.frame-1,
-.frame-1 {
-  box-sizing: border-box;
-}
-.frame-1 {
-  background: #b6d0d4;
-  height: 667px;
-  position: relative;
-  overflow: hidden;
-}
-.photo-2025-02-13-20-19-19-1 {
-  border-radius: 32px;
-  width: 169px;
-  height: 300px;
-  position: absolute;
-  left: 195px;
-  top: 64px;
-  object-fit: cover;
-  aspect-ratio: 169/300;
-}
-.hi-mein-name-ist-fabian {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 26px;
-  font-weight: 400;
-  position: absolute;
-  left: 19px;
-  top: 27px;
-}
-.besuche-meine-website-hier {
-  color: #000000;
-  text-align: left;
-  font-family: "Inter-Regular", sans-serif;
-  font-size: 20px;
-  font-weight: 400;
-  position: absolute;
-  left: 50px;
-  top: 103px;
-  width: 109px;
-  height: 48px;
-}
+  .iphone-8,
+  .iphone-8 * {
+    box-sizing: border-box;
+  }
+  .iphone-8 {
+    background: #b6d0d4;
+    height: 667px;
+    position: relative;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1);
+    overflow: hidden;
+  }
+  .photo-2025-02-13-20-19-19-1 {
+    border-radius: 32px;
+    width: 169px;
+    height: 300px;
+    position: absolute;
+    left: 191px;
+    top: 610px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1);
+    object-fit: cover;
+    aspect-ratio: 169/300;
+  }
+  .hi-mein-name-ist-fabian {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 26px;
+    font-weight: 400;
+    position: absolute;
+    left: 15px;
+    top: 647px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1);
+  }
+  .besuche-meine-website-hier {
+    color: #000000;
+    text-align: left;
+    font-family: "Inter-Regular", sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    position: absolute;
+    left: 46px;
+    top: 571px;
+    width: 109px;
+    height: 48px;
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1);
+  }
+  
 }
