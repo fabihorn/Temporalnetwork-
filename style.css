@@ -17,6 +17,9 @@
   object-fit: cover;
   aspect-ratio: 566/1006;
 }
+.photo-2025-02-13-20-19-19-1:hover {
+height: 80%;
+}
 .hi-mein-name-ist-fabian {
   color: #000000;
   text-align: left;
