@@ -91,6 +91,17 @@ height: 80%;
     transform-origin: 0 0;
     transform: rotate(0deg) scale(1, -1);
   }
-  
+  @media only screen and (max-width: 767px) {
+  .frame-1 {
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1); /* Entfernen oder anpassen */
+  }
+  .photo-2025-02-13-20-19-19-1,
+  .hi-mein-name-ist-fabian,
+  .besuche-meine-website-hier {
+    transform-origin: 0 0;
+    transform: rotate(0deg) scale(1, -1); /* Entfernen oder anpassen */
+  }
+}
 }
 
