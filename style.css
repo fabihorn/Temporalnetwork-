@@ -57,7 +57,7 @@ height: 80%;
     height: 300px;
     position: absolute;
     left: 191px;
-    top: 610px;
+    top: 10%;
     object-fit: cover;
     aspect-ratio: 169/300;
   }
@@ -69,7 +69,7 @@ height: 80%;
     font-weight: 400;
     position: absolute;
     left: 15px;
-    top: 647px;
+    top: 10%;
   }
   .besuche-meine-website-hier {
     color: #000000;
@@ -79,7 +79,7 @@ height: 80%;
     font-weight: 400;
     position: absolute;
     left: 46px;
-    top: 571px;
+    top: 20%;
     width: 109px;
     height: 48px;
   }
